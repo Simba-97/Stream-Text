@@ -1,7 +1,8 @@
-package com.simba.streamtext
+package com.simba.streamtext.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.simba.streamtext.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

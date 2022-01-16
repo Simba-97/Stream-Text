@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1020727501702",
+    "project_id": "stream-text",
+    "storage_bucket": "stream-text.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020727501702:android:2d2a0d5827382a622c0207",
+        "android_client_info": {
+          "package_name": "com.simba.streamtext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020727501702-k98qj2qnlbo4t0mgl6etghbksg96nqfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUUSLYG5dca7tB7oPUk-qX3rvITnqaeos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020727501702-k98qj2qnlbo4t0mgl6etghbksg96nqfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
