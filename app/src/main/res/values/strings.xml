@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Stream Text</string>
+    <string name="enter_phoneNo">Enter your Phone number to start chatting</string>
+    <string name="next">Proceed</string>
 </resources>
